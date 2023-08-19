@@ -1,0 +1,9 @@
+Use command:
+
+python ProgramName
+
+where 'ProgramName' is some Python code-sample
+
+FOR EXAMPLE:
+
+python lesson-001.py
